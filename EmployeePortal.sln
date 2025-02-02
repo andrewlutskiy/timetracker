@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeePortal.Api", "EmployeePortal.Api\EmployeePortal.Api.csproj", "{18ABABC8-E918-45A5-B910-00F94C6D8D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18ABABC8-E918-45A5-B910-00F94C6D8D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18ABABC8-E918-45A5-B910-00F94C6D8D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18ABABC8-E918-45A5-B910-00F94C6D8D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18ABABC8-E918-45A5-B910-00F94C6D8D87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
